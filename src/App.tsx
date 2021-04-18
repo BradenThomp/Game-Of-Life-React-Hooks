@@ -4,7 +4,7 @@ import { PauseButton } from './Components/PauseButton';
 
 const DEFAULTCELLSIZE = 10;
 const DEFAULTBORDERSIZE = 0.25;
-const MINSCALEFACTOR = 0.5;
+const MINSCALEFACTOR = 0.25;
 const MAXSCALEFACTOR = 2.0;
 const NUMCOLUMNS = 1000;
 const NUMROWS = 1000;

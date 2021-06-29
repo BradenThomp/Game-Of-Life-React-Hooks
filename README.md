@@ -1,4 +1,4 @@
-## Introduction
+## About
 The Game Of Life is a zero player, cellular automaton created by mathemetician John Conway.  
 
 ### Rules

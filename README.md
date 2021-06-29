@@ -13,7 +13,11 @@ The Game Of Life is a zero player, cellular automaton created by mathemetician J
 ### Purpose
 The purpose of this project was to learn functional React and Hooks.  React was probably not the best tool to implement The Game Of Life, but this was intentional.  By using tools like React for unintended purposes, I believe one gains a greater understanding of the limits of the tool including what does and does not work well.  If one is strictly trying to implement the Game Of Life without imposing restrictions on themselves (such as using hooks as a requirement), a simple game loop would be a much better solution.
 
-## Installation
+## Getting Started
+### Prerequisites
+N/A
+
+### Installation
 Clone the repo:
 ```bash
 git clone https://github.com/BradenThomp/Game-Of-Life-React-Hooks.git
@@ -22,3 +26,7 @@ git clone https://github.com/BradenThomp/Game-Of-Life-React-Hooks.git
 ## Usage
 1. Run with: ```npm start```
 2. In your browser of choice, navigate to http://localhost:3000/.
+
+## Resources
+The following resources were used to create this project.
+* [Cornell Game Of Life](http://pi.math.cornell.edu/~lipa/mec/lesson6.html)

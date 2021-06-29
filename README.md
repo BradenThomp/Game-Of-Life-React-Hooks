@@ -20,5 +20,5 @@ git clone https://github.com/BradenThomp/Game-Of-Life-React-Hooks.git
 ```
 
 ## Usage
-1. Run with: ```bash npm start```
+1. Run with: ```npm start```
 2. In your browser of choice, navigate to http://localhost:3000/.
